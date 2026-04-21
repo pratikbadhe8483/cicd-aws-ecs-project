@@ -133,14 +133,6 @@ http://localhost:3000
 
 ---
 
-## 📷 Screenshots (Add Later)
-
-* ECS Service Running
-* CodePipeline Success
-* Application Output
-
----
-
 ## ⚠️ Challenges Faced
 
 * Git authentication issue → solved using Personal Access Token
